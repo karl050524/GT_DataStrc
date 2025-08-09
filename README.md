@@ -2,5 +2,5 @@
 - C2B
 - GT: Arrays
 ## Output
-![FirstOutput](img/firstOutput.png)
-![SecondOutput](img/secondOutput.png)
+![FirstOutput](src/img/firstOutput.png)
+![SecondOutput](src/img/secondOutput.png)
